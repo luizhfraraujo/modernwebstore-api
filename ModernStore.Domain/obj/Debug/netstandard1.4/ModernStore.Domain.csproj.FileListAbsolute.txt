@@ -1,0 +1,12 @@
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\ModernStore.Domain.deps.json
+E:\Luiz\ModernStore\ModernStore.Domain\obj\Debug\netstandard1.4\ModernStore.Domain.Resources.EmailTemplates.resources
+E:\Luiz\ModernStore\ModernStore.Domain\obj\Debug\netstandard1.4\ModernStore.Domain.csproj.GenerateResource.Cache
+E:\Luiz\ModernStore\ModernStore.Domain\obj\Debug\netstandard1.4\ModernStore.Domain.AssemblyInfo.cs
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\ModernStore.Domain.dll
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\ModernStore.Domain.pdb
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\FluentValidator.dll
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\ModernStore.Shared.dll
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\FluentValidator.pdb
+E:\Luiz\ModernStore\ModernStore.Domain\bin\Debug\netstandard1.4\ModernStore.Shared.pdb
+E:\Luiz\ModernStore\ModernStore.Domain\obj\Debug\netstandard1.4\ModernStore.Domain.dll
+E:\Luiz\ModernStore\ModernStore.Domain\obj\Debug\netstandard1.4\ModernStore.Domain.pdb

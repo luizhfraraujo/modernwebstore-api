@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\FluentValidator\FluentValidator.csproj" />
+    <ProjectReference Include="..\ModernStore.Shared\ModernStore.Shared.csproj" />
+    <!--<Compile Include="..\ModernStore.Domain\Resources\*.cs" />-->
+    <!--<EmbeddedResource Include="..\ModernStore.Domain\Resources\*.resx" />-->
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+</Project>

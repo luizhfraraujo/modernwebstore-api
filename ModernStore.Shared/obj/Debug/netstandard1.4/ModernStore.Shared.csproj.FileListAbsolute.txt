@@ -1,0 +1,8 @@
+E:\Luiz\ModernStore\ModernStore.Shared\bin\Debug\netstandard1.4\ModernStore.Shared.deps.json
+E:\Luiz\ModernStore\ModernStore.Shared\bin\Debug\netstandard1.4\ModernStore.Shared.dll
+E:\Luiz\ModernStore\ModernStore.Shared\bin\Debug\netstandard1.4\ModernStore.Shared.pdb
+E:\Luiz\ModernStore\ModernStore.Shared\bin\Debug\netstandard1.4\FluentValidator.dll
+E:\Luiz\ModernStore\ModernStore.Shared\bin\Debug\netstandard1.4\FluentValidator.pdb
+E:\Luiz\ModernStore\ModernStore.Shared\obj\Debug\netstandard1.4\ModernStore.Shared.AssemblyInfo.cs
+E:\Luiz\ModernStore\ModernStore.Shared\obj\Debug\netstandard1.4\ModernStore.Shared.dll
+E:\Luiz\ModernStore\ModernStore.Shared\obj\Debug\netstandard1.4\ModernStore.Shared.pdb
