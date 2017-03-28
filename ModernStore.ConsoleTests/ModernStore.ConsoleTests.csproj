@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModernStore.Domain\ModernStore.Domain.csproj" />
+    <ProjectReference Include="..\ModernStore.Shared\ModernStore.Shared.csproj" />
+    <ProjectReference Include="..\FluentValidator\FluentValidator.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

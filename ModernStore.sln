@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernStore.Shared", "Moder
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidator", "FluentValidator\FluentValidator.csproj", "{5AC2507A-17B1-41C8-9847-C8D43F107E84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernStore.ConsoleTests", "ModernStore.ConsoleTests\ModernStore.ConsoleTests.csproj", "{B8D6B196-F950-4A07-998E-E00731B5BD9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{5AC2507A-17B1-41C8-9847-C8D43F107E84}.Release|x64.Build.0 = Release|x64
 		{5AC2507A-17B1-41C8-9847-C8D43F107E84}.Release|x86.ActiveCfg = Release|x86
 		{5AC2507A-17B1-41C8-9847-C8D43F107E84}.Release|x86.Build.0 = Release|x86
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Debug|x64.ActiveCfg = Debug|x64
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Debug|x64.Build.0 = Debug|x64
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Debug|x86.ActiveCfg = Debug|x86
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Debug|x86.Build.0 = Debug|x86
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Release|x64.ActiveCfg = Release|x64
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Release|x64.Build.0 = Release|x64
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Release|x86.ActiveCfg = Release|x86
+		{B8D6B196-F950-4A07-998E-E00731B5BD9E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
